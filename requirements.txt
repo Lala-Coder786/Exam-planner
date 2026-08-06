@@ -1,0 +1,8 @@
+# Exam Preparation Planner - Requirements
+# This project only uses Python's built-in libraries, so nothing extra
+# needs to be pip installed. tkinter and sqlite3 come with Python itself.
+#
+# Just make sure you are using Python 3.8 or above.
+#
+# (Optional) If tkinter is missing on Linux, install it using:
+#   sudo apt-get install python3-tk
